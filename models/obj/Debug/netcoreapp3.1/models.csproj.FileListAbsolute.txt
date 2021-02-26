@@ -1,0 +1,8 @@
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\bin\Debug\netcoreapp3.1\models.deps.json
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\bin\Debug\netcoreapp3.1\models.dll
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\bin\Debug\netcoreapp3.1\models.pdb
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\obj\Debug\netcoreapp3.1\models.AssemblyInfoInputs.cache
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\obj\Debug\netcoreapp3.1\models.AssemblyInfo.cs
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\obj\Debug\netcoreapp3.1\models.csproj.CoreCompileInputs.cache
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\obj\Debug\netcoreapp3.1\models.dll
+C:\Users\scnichol\Source\Repos\MyCosmicWork\models\obj\Debug\netcoreapp3.1\models.pdb
