@@ -6120,11 +6120,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scnichol\\Source\\Repos\\MyCosmicWork\\change-feed-categories\\change-feed-categories.csproj",
+      "projectUniqueName": "C:\\Users\\scnichol\\source\\repos\\MyCosmicWork\\change-feed-categories\\change-feed-categories.csproj",
       "projectName": "change-feed-categories",
-      "projectPath": "C:\\Users\\scnichol\\Source\\Repos\\MyCosmicWork\\change-feed-categories\\change-feed-categories.csproj",
+      "projectPath": "C:\\Users\\scnichol\\source\\repos\\MyCosmicWork\\change-feed-categories\\change-feed-categories.csproj",
       "packagesPath": "C:\\Users\\scnichol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scnichol\\Source\\Repos\\MyCosmicWork\\change-feed-categories\\obj\\",
+      "outputPath": "C:\\Users\\scnichol\\source\\repos\\MyCosmicWork\\change-feed-categories\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -6148,8 +6148,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\scnichol\\Source\\Repos\\MyCosmicWork\\models\\models.csproj": {
-              "projectPath": "C:\\Users\\scnichol\\Source\\Repos\\MyCosmicWork\\models\\models.csproj"
+            "C:\\Users\\scnichol\\source\\repos\\MyCosmicWork\\models\\models.csproj": {
+              "projectPath": "C:\\Users\\scnichol\\source\\repos\\MyCosmicWork\\models\\models.csproj"
             }
           }
         }
@@ -6196,7 +6196,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.20614.14\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200-preview.21079.7\\RuntimeIdentifierGraph.json"
       }
     }
   }
